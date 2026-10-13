@@ -1,0 +1,14 @@
+# common
+.env
+node_modules/
+dist/
+.idea/
+.vscode/
+
+# python/flask
+__pycache__/
+venv/
+uploads/
+
+# java/maven
+target/
